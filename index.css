@@ -1,0 +1,22 @@
+h5 {
+	text-decoration: underline;
+
+}
+
+#buttonGroup {
+	width: 100%;
+}
+
+#buttonGroup .btn {
+	width: 33%;
+}
+
+h1 {
+	font-family: 'Delius Unicase', cursive;
+	color: white;
+	text-decoration: underline;
+}
+
+body {
+	background-color: #006dcc;
+}
